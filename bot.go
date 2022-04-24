@@ -9,8 +9,8 @@ import (
 )
 
 const (
-	BotToken   = "310805560:AAENzjDSJPKABY9Hw1GZOdKBxxrhOHkfo_k"
-	WebhookURL = "https://ea731f5c.ngrok.io"
+	BotToken   = "5240533560:AAHtEIH8_Qh-tC9s6OwGk9-QMrgr378jqOk"
+	WebhookURL = "https://evening-basin-22707.herokuapp.com/ "
 )
 
 var rss = map[string]string{
